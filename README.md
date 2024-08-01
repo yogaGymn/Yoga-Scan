@@ -8,6 +8,9 @@ Deskripsi: XSS adalah kerentanan yang memungkinkan penyerang untuk menyisipkan s
 3. Directory Traversal
 Deskripsi: Directory Traversal adalah teknik serangan di mana penyerang dapat mengakses file atau direktori yang berada di luar direktori root web. Ini memungkinkan penyerang untuk membaca file sensitif seperti password atau konfigurasi.
 
+WARNING!!!!
+Segala Aktifitas Ilegal bukan tanggung jawab kami!!!
+
 Install From Linux :
 - sudo apt update
 - sudo apt install git
