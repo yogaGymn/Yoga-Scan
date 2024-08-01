@@ -9,9 +9,9 @@ Deskripsi: XSS adalah kerentanan yang memungkinkan penyerang untuk menyisipkan s
 Deskripsi: Directory Traversal adalah teknik serangan di mana penyerang dapat mengakses file atau direktori yang berada di luar direktori root web. Ini memungkinkan penyerang untuk membaca file sensitif seperti password atau konfigurasi.
 
 Install From Linux :
-sudo apt update
-sudo apt install git
-git clone https://github.com/yogaGymn/Yoga-Scan.git
-cd Yoga-Scan
-pip install -r requirements.txt
-python scanner.py 
+- sudo apt update
+- sudo apt install git
+- git clone https://github.com/yogaGymn/Yoga-Scan.git
+- cd Yoga-Scan
+- pip install -r requirements.txt
+- python scanner.py 
